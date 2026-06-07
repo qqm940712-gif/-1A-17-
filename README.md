@@ -25,7 +25,26 @@
 3. 編譯並執行程式。
 4. 依照畫面提示輸入玩家資訊即可開始遊戲。
 
-【運行畫面截圖】
+第一步：輸入人數
+<img width="858" height="494" alt="截圖 2026-06-07 下午2 39 45" src="https://github.com/user-attachments/assets/94eb4aa5-82f8-44bc-b2e6-c36ab6c67762" />
+
+第二步：輸入小盲
+<img width="850" height="494" alt="截圖 2026-06-07 下午2 42 12" src="https://github.com/user-attachments/assets/08636950-d4a1-494f-aead-02af445f53a7" />
+
+第三步驟：輸入大盲
+<img width="846" height="488" alt="截圖 2026-06-07 下午2 43 20" src="https://github.com/user-attachments/assets/814f23e1-827c-4b8a-890e-10ff8100190e" />
+
+第四步驟：輸入每個人起始點數
+<img width="849" height="487" alt="截圖 2026-06-07 下午2 44 16" src="https://github.com/user-attachments/assets/c3050a46-1870-4b18-99ed-aaf318691727" />
+
+第五步驟：輸入個玩家的名稱
+<img width="844" height="486" alt="截圖 2026-06-07 下午2 44 51" src="https://github.com/user-attachments/assets/75e6b05f-541b-4598-891f-e9796015338c" />
+
+第六步驟：開始遊玩直到每個人當過大盲時才結束
+<img width="832" height="487" alt="截圖 2026-06-07 下午2 45 33" src="https://github.com/user-attachments/assets/6537b170-b245-4528-91ac-c292c9114246" />
+
+
+
 
 
 
