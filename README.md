@@ -22,7 +22,21 @@
 
 【程式如何安裝】
 一、無UI版本
-  1.
+  1.點擊畫面右方無UI版本
+  
+  <img width="1224" height="667" alt="截圖 2026-06-07 下午4 42 11" src="https://github.com/user-attachments/assets/d7859a20-5eaa-42b3-b305-2e12367d2166" />
+
+  2.點擊defaul.zip 下載
+  
+  <img width="1333" height="596" alt="截圖 2026-06-07 下午4 43 57" src="https://github.com/user-attachments/assets/24f3fc1a-54e9-41bf-a74e-e4da54951966" />
+
+  3.解壓縮打開資料夾
+  
+  <img width="692" height="351" alt="截圖 2026-06-07 下午4 46 19" src="https://github.com/user-attachments/assets/a2a1efd5-cda3-4e38-89b5-f757569dadc9" />
+
+  4.點擊holdem即可直接遊玩（無.cpp檔
+
+
 
 二、有UI版本
   1.點擊下方連結邀請到自己的DC伺服氣
