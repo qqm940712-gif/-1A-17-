@@ -21,7 +21,9 @@
 <img width="734" height="746" alt="截圖 2026-06-07 下午2 49 23" src="https://github.com/user-attachments/assets/102f44af-9698-4d9f-91d8-b5c77e4aca54" />
 
 【程式如何安裝】
+
 一、無UI版本
+
   1.點擊畫面右方無UI版本
   
   <img width="1224" height="667" alt="截圖 2026-06-07 下午4 42 11" src="https://github.com/user-attachments/assets/d7859a20-5eaa-42b3-b305-2e12367d2166" />
@@ -39,6 +41,7 @@
 
 
 二、有UI版本
+
   1.點擊下方連結邀請到自己的DC伺服氣
 
   [https://discord.com/oauth2/authorize?client_id=1503794537183707306](https://discord.com/oauth2/authorize?client_id=1503794537183707306&permissions=2147568640&integration_type=0&scope=applications.commands+bot)
