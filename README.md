@@ -1,4 +1,3 @@
-<img width="734" height="746" alt="截圖 2026-06-07 下午2 49 23" src="https://github.com/user-attachments/assets/0df33a45-3266-4f1a-9ef6-d24c037a1da8" />
 系班級：資工系1A
 
 組別：第17組
@@ -18,6 +17,7 @@
 本程式使用 C++ 製作，包含牌組建立、洗牌、發牌、下注、盲注、牌型判斷與勝負結算等功能。
 
 遊戲以文字方式進行，適合多人輪流操作，模擬德州撲克的基本流程。
+
 <img width="734" height="746" alt="截圖 2026-06-07 下午2 49 23" src="https://github.com/user-attachments/assets/102f44af-9698-4d9f-91d8-b5c77e4aca54" />
 
 【程式如何安裝】
