@@ -27,7 +27,7 @@
 二、有UI版本
   1.點擊下方連結邀請到自己的DC伺服氣
 
-  https://discord.com/oauth2/authorize?client_id=1503794537183707306
+  [https://discord.com/oauth2/authorize?client_id=1503794537183707306](https://discord.com/oauth2/authorize?client_id=1503794537183707306&permissions=2147568640&integration_type=0&scope=applications.commands+bot)
 
   
 【遊玩方式（無UI)】
