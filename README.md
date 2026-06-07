@@ -21,11 +21,16 @@
 <img width="734" height="746" alt="截圖 2026-06-07 下午2 49 23" src="https://github.com/user-attachments/assets/102f44af-9698-4d9f-91d8-b5c77e4aca54" />
 
 【程式如何安裝】
+一、無UI版本
+  1.
 
-1. 安裝 C++ 編譯器（例如 Dev-C++、Code::Blocks 或 Visual Studio）。
-2. 將 Holdem.cpp 匯入專案。
-3. 編譯並執行程式。
-4. 依照畫面提示輸入玩家資訊即可開始遊戲。
+二、有UI版本
+  1.點擊下方連結邀請到自己的DC伺服氣
+
+  https://discord.com/oauth2/authorize?client_id=1503794537183707306
+
+  
+【遊玩方式（無UI)】
 
 第一步：輸入人數
 
