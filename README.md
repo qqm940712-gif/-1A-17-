@@ -52,13 +52,26 @@
 
 <img width="844" height="486" alt="截圖 2026-06-07 下午2 44 51" src="https://github.com/user-attachments/assets/75e6b05f-541b-4598-891f-e9796015338c" />
 
-第六步驟：開始遊玩直到每個人當過大盲時才結束
+第六步驟：開始遊玩 直到每個人當過大盲時才結束
 
 <img width="832" height="487" alt="截圖 2026-06-07 下午2 45 33" src="https://github.com/user-attachments/assets/6537b170-b245-4528-91ac-c292c9114246" />
 
 
+【遊玩方式（有UI)】 
+ 第一步驟：輸入/holdem 後輸入大盲小盲及起始點數
+
+<img width="620" height="349" alt="截圖 2026-06-07 下午4 29 50" src="https://github.com/user-attachments/assets/a7e989b6-e1e6-4484-86b8-13ef32bef6cd" />
+
+ 第二步驟：每個玩家點擊加入遊戲 在點開始
+ 
+<img width="397" height="300" alt="截圖 2026-06-07 下午4 31 42" src="https://github.com/user-attachments/assets/6f08e466-5545-4585-8850-e3d25aa5f5e9" />
+
+第三步驟：開始正式遊玩 直到每個人當過大盲結束
+
+<img width="418" height="404" alt="截圖 2026-06-07 下午4 38 41" src="https://github.com/user-attachments/assets/263d1746-8473-48e4-b863-86f4cfa7b2d2" />
 
 
+ 
 
 
 
