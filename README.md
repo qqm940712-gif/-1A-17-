@@ -89,8 +89,7 @@
 <img width="418" height="404" alt="截圖 2026-06-07 下午4 38 41" src="https://github.com/user-attachments/assets/263d1746-8473-48e4-b863-86f4cfa7b2d2" />
 
 
- 
-
+ video:https://drive.google.com/drive/folders/1ReOLgIyNLpKuPpghm8pbQyxPlDb3DWYR?usp=drive_link
 
 
 # 【分工資訊】
