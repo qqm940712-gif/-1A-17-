@@ -18,7 +18,8 @@
 
 遊戲以文字方式進行，適合多人輪流操作，模擬德州撲克的基本流程。
 
-<img width="734" height="746" alt="截圖 2026-06-07 下午2 49 23" src="https://github.com/user-attachments/assets/102f44af-9698-4d9f-91d8-b5c77e4aca54" />
+<img width="354" height="322" alt="截圖 2026-06-08 下午2 24 18" src="https://github.com/user-attachments/assets/d2e76a45-1e33-48e4-a10a-98073b9f0119" />
+
 
 # 【程式如何安裝】
 
